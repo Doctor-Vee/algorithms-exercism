@@ -3,3 +3,7 @@ node_modules
 _pycache_
 .cache
 *.pyc
+.gradle
+.settings
+bin
+build
