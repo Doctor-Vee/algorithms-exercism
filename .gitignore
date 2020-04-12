@@ -8,3 +8,6 @@ _pycache_
 bin
 build
 .idea
+gradlew.bat
+gradlew
+gradle
